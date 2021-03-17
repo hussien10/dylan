@@ -1,0 +1,82 @@
+@media(max-width:991px){
+    nav .navbar-container .cart-search-container,nav .navbar-container .cart-search{
+        padding: 0!important;
+    }
+    nav .navbar-container .cart-search {
+        justify-content: flex-start;
+    }
+    nav .navbar-container .cart-search .cart{
+        justify-content: center;
+        margin-right: 0;
+    }
+    nav .navbar-container .cart-search .cart, nav .navbar-container .cart-search .search{
+        margin-right: 32px;
+    }
+    nav .navbar-container .logo{
+        padding-right: 0;
+        padding-top: 16px;
+    }
+    nav .navbar-container .cart-search .cart .custom-badge{
+        right: 5px;
+    }
+    nav{
+        background-color: #fff;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+    }
+    nav .cart-search{
+        border-left: 1px solid rgba(0, 0, 0, 0.15)!important;
+    }
+    .dark-nav{
+        background-color: #fff;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+    }
+    .dark-nav .cart-search{
+        border-left: 1px solid rgba(0, 0, 0, 0.15)!important;
+    }
+    nav span,nav svg{
+        color: #000!important;
+    }
+    .mob-nav span, .mob-nav svg{
+        color: #fff!important;
+    }
+}
+@media(max-width:768px){
+    .carousel-item h2{
+        font-size: 55px;
+    }
+    .service-info{
+        width: 100%;
+        font-size: 14px;
+    }
+    .feedback .slide-content q{
+        width: 100%;
+    }
+    .search-bar input,.video-cont iframe{
+        width: 80%;
+    }
+    .footer-about{
+        padding-left: 32px;
+        margin-bottom: 32px;
+    }
+    footer .footer-contact{
+        padding-left: 0;
+        text-align: center;
+    }
+    footer .footer-contact .footer-social ul{
+        justify-content: center;
+    }
+}
+@media(max-width:567px){
+    nav .navbar-container .cart-search .cart, nav .navbar-container .cart-search .search{
+        margin-right: 8px;
+    }
+    .services-taps{
+        /* width: 50%; */
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    .service-tap{
+        margin: 0 32px!important;
+    }
+    
+}
