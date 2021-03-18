@@ -65,6 +65,9 @@
     footer .footer-contact .footer-social ul{
         justify-content: center;
     }
+    .services .services-taps .service-tap{
+        margin: 0 32px;
+    }
 }
 @media(max-width:567px){
     nav .navbar-container .cart-search .cart, nav .navbar-container .cart-search .search{
