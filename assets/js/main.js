@@ -21,6 +21,7 @@ $(window).on("load",function () {
         pagination: {
             el: '.swiper-pagination',
             dynamicBullets: true,
+            clickable:true,
         },
     });
 
