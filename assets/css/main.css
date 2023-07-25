@@ -499,7 +499,7 @@ nav .navbar-container .navbar-links-container .navbar-links li:hover svg {
 }
 
 .slide-one {
-    background-image: url("../images/banner/bg-image-50.jpg");
+    background-image: url("../images/banner/bg-image-50.webp");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -515,7 +515,7 @@ nav .navbar-container .navbar-links-container .navbar-links li:hover svg {
 }
 
 .slide-two .img-lay {
-    background-image: url("../images/banner/bg-image-49.jpg");
+    background-image: url("../images/banner/bg-image-49.webp");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -932,7 +932,7 @@ nav .navbar-container .navbar-links-container .navbar-links li:hover svg {
 }
 /* feedback */
 .feedback{
-    background-image: url("../images/banner/bg-image-51.jpg");
+    background-image: url("../images/banner/bg-image-51.webp");
     background-position: center center;
     background-size: cover;
     position: relative;
