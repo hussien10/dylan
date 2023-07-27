@@ -705,7 +705,9 @@ nav .navbar-container .navbar-links-container .navbar-links li:hover svg {
     position: relative;
     overflow: hidden;
 }
-
+.portfolio .portfolio-container .img-card img{
+    aspect-ratio:800/533
+}
 .portfolio .portfolio-container .img-card .portfolio-overlay {
     position: absolute;
     top: 0;
@@ -748,7 +750,9 @@ nav .navbar-container .navbar-links-container .navbar-links li:hover svg {
 .members .member {
     padding: 8px;
 }
-
+.members .member img{
+    aspect-ratio: 802/765
+}
 .title {
     text-align: center;
 }
@@ -1008,6 +1012,9 @@ nav .navbar-container .navbar-links-container .navbar-links li:hover svg {
 /* posts */
 .posts{
     background-color: #f7f7f7;
+}
+.posts img{
+    aspect-ratio: 1600/1067;
 }
 .posts .posts-swiper .slide-content{
     background-color: #fff;
